@@ -1,2 +1,0 @@
-![Convertor Image](./convertor.png)
-
